@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="left">Hi, I'm Mehran</h1>
 
-<!--
-**mehranbahari/mehranbahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer, Artificial intelligence enthusiast and frontend developer**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=php,,js,jquery,react,html,css)](https://skillicons.dev)
+
+### contact me
+<p align="left">
+<a href="https://www.linkedin.com/in/seyed-mohammad-hosien-abedy-nejad-7a2248b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diorfunn" height="30" width="40" /></a>
+</p>
+
+
+ 
+ ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
+ 
+ 
