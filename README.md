@@ -2,8 +2,7 @@
 
 **🚀 Software Engineer | 💻 Frontend Developer | 🤖 AI Enthusiast**  
 
-من یک توسعه‌دهنده فرانت‌اند در ابزارهای پیشرفته مانند **React.js**، **Next.js** و **TailwindCSS** هستم. عاشق یادگیری فناوری‌های جدید، حل مسائل پیچیده و کاوش در دنیای هوش مصنوعی هستم.
-
+I am a frontend developer skilled in advanced tools like React.js, Next.js, and TailwindCSS. I am passionate about learning new technologies, solving complex problems, and exploring the world of artificial intelligence.
 ---
 
 ### 🛠️ Languages & Tools
