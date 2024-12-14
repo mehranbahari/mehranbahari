@@ -17,6 +17,7 @@ I am a frontend developer skilled in advanced tools like React.js, Next.js, and 
   </a>
 </p>
  
- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
- 
+
+ ![Spinning Spheres](https://media.giphy.com/media/3oEjHLzm4BCF8zfPyw/giphy.gif)
+
  
