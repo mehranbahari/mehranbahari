@@ -18,7 +18,5 @@ I am a frontend developer skilled in advanced tools like React.js, Next.js, and 
 </p>
  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+TailwindCSS;AI+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
-</p>
- 
+### 🌌 **My Animation**
+![Falling Stars](https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif)
