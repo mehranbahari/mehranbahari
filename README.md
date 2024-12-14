@@ -18,5 +18,4 @@ I am a frontend developer skilled in advanced tools like React.js, Next.js, and 
 </p>
  
 
-### 🌌 **My Animation**
-![Falling Stars](https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif)
+![Dancing Cats](https://media.giphy.com/media/1g3A0gpaidxWcL9Mfo/giphy.gif)
